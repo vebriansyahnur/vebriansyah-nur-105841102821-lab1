@@ -24,7 +24,7 @@ const CostumButton = () => {
                 textAlign: 'center',
                 lineHeight: 50,
                 fontSize: 20,
-                fontWeight: 'bold',
+                fontWeight: 'bold',           
               }}>
                 Login
               </Text>
